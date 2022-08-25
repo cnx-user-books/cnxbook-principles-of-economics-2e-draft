@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Economics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12122</md:content-id>
     <md:title>Principles of Economics 2e</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>bc498e1f-efe9-43a0-8dea-d3569ad09a82</md:uuid>
-<md:slug>principles-of-economics-2e-draft</md:slug>
-</metadata>
+    <md:slug>principles-of-economics-2e-draft</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m64268"/>
     <col:subcollection>
